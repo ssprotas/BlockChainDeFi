@@ -5,8 +5,13 @@
 # Remix plugin state folders
 deps/
 states/
+
+# Build staf
 cache/
 out/
+
+# Deploy staf
+broadcast/
 
 # Debug info
 *.dbg.json
@@ -17,3 +22,4 @@ out/
 .env.local
 
 foundry.lock
+
