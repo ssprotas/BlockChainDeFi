@@ -12,6 +12,12 @@ cd HW2
 forge install OpenZeppelin/openzeppelin-contracts
 ```
 
+or
+
+```
+git submodule update --init --recursive
+```
+
 ## Build
 ```
 forge build
